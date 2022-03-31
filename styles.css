@@ -1,0 +1,76 @@
+body {
+  background-color: aliceblue;
+}
+
+.mycustomcolor {
+  background-image: linear-gradient(to right bottom, #5bc95f, #95b87a, #cbc8ad, #5f9b4e);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 80vh;
+  border-bottom-left-radius: 80%;
+  border-bottom-right-radius: 80%;
+}
+
+.Mainhead {
+  letter-spacing: 0.5rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.round {
+  border-radius: 2rem;
+  padding: 2rem;
+}
+
+hr {
+  border-width: 0.5rem;
+  border-color: azure;
+}
+
+.custom-margin img {
+  margin: 20px;
+  border-radius: 50%;
+  box-shadow: rgb(0 0 0 / 31%) -1px 2px 15px 9px;
+  transition: 0.4s;
+}
+
+.custom-margin img:hover {
+  box-shadow: rgb(0 0 0 / 31%) -4px 1px 15px 9px;
+}
+#first:hover {
+  box-shadow: 5px 5px 8px #e44d2672;
+}
+#second:hover {
+  box-shadow: 5px 5px 8px #1f60ad;
+}
+
+#third:hover {
+  box-shadow: 5px 5px 8px #e7c730;
+}
+.ic {
+  background-color: #d8dde5;
+  border-radius: 9px;
+}
+/* .socials{
+  height: 20px;
+  width: 20px;
+} */
+
+.mgl {
+  margin-left: 60%;
+  color: aliceblue;
+}
+
+.mgl2 {
+  margin-left: 10%;
+  color: aliceblue;
+}
+
+img {
+  border-radius: 9px;
+}
+
+.cent {
+  margin: auto;
+  margin-top: 2%;
+}
